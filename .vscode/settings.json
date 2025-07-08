@@ -1,0 +1,10 @@
+{
+  // Tell VS Code these are source roots it must copy to the output folder
+  "java.project.sourcePaths": [
+    "src/main/java",
+    "src/main/resources"
+  ],
+
+  // Re-build automatically when the setting changes
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
