@@ -13,7 +13,7 @@ import gui.GamePanel;
  * 
  * @author Yoana Yosifova
  */
-public class Main extends JFrame {
+public class Main {
 
     public static void main(String[] args) {
         // Use invokeLater to ensure the GUI is created on the Event Dispatch Thread (EDT)
