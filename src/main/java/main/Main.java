@@ -1,10 +1,6 @@
 package main;
 
-import java.awt.Color;
-import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JMenu;
 import javax.swing.SwingUtilities;
 
 import gui.GamePanel;

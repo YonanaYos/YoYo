@@ -1,15 +1,8 @@
 package gui;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
-
-import main.Main;
-
 import java.awt.Color;
-import java.io.IOException;
-import java.awt.Graphics;
-import java.awt.image.BufferedImage;
-import java.net.URL;
+
 
 /** 
  * GamePanel class for the game application.
